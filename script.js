@@ -8,7 +8,6 @@ const storeProduct = [
   , 'R.E.P.O.'
   , 'PEAK'
   , 'Palworld'
-  , 'FORTNITE'
 ]
 
 storeProductImg = [
